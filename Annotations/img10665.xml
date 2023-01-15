@@ -1,0 +1,26 @@
+<annotation>
+	<folder>result2</folder>
+	<filename>img10665.jpg</filename>
+	<path>/Users/a123/Desktop/Archive/脚本/result2/img10665.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>scratch</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>179</ymin>
+			<xmax>31</xmax>
+			<ymax>234</ymax>
+		</bndbox>
+	</object>
+</annotation>
