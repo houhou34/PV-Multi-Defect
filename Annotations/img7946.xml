@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new</folder>
+	<filename>img7946.jpg</filename>
+	<path>C:\Users\86151\Desktop\sample\new\img7946.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>broken</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>539</xmin>
+			<ymin>234</ymin>
+			<xmax>600</xmax>
+			<ymax>335</ymax>
+		</bndbox>
+	</object>
+</annotation>
