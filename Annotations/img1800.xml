@@ -1,0 +1,26 @@
+<annotation>
+	<folder>result2</folder>
+	<filename>img1800.jpg</filename>
+	<path>C:\Users\86151\Desktop\sample\result2\img1800.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>scratch</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>37</xmin>
+			<ymin>407</ymin>
+			<xmax>44</xmax>
+			<ymax>468</ymax>
+		</bndbox>
+	</object>
+</annotation>

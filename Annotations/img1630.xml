@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new</folder>
+	<filename>img1630.jpg</filename>
+	<path>C:\Users\86151\Desktop\sample\new\img1630.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hot_spot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>38</xmin>
+			<ymin>554</ymin>
+			<xmax>53</xmax>
+			<ymax>582</ymax>
+		</bndbox>
+	</object>
+</annotation>
