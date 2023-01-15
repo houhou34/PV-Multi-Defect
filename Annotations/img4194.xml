@@ -1,0 +1,26 @@
+<annotation>
+	<folder>result2</folder>
+	<filename>img4194.jpg</filename>
+	<path>C:\Users\86151\Desktop\sample\result2\img4194.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no_electricity</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>449</xmin>
+			<ymin>1</ymin>
+			<xmax>600</xmax>
+			<ymax>580</ymax>
+		</bndbox>
+	</object>
+</annotation>
