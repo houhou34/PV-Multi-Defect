@@ -1,0 +1,26 @@
+<annotation>
+	<folder>result2</folder>
+	<filename>img8149.jpg</filename>
+	<path>/Users/a123/Desktop/Archive/脚本/result2/img8149.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>black_border</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>293</xmin>
+			<ymin>110</ymin>
+			<xmax>316</xmax>
+			<ymax>497</ymax>
+		</bndbox>
+	</object>
+</annotation>

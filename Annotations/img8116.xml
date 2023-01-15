@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new</folder>
+	<filename>img8116.jpg</filename>
+	<path>C:\Users\86151\Desktop\sample\new\img8116.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>black_border</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>132</xmin>
+			<ymin>96</ymin>
+			<xmax>158</xmax>
+			<ymax>366</ymax>
+		</bndbox>
+	</object>
+</annotation>
