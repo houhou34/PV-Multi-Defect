@@ -1,0 +1,26 @@
+<annotation>
+	<folder>result2</folder>
+	<filename>img153.jpg</filename>
+	<path>C:\Users\86151\Desktop\sample\result2\img153.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>scratch</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>476</xmin>
+			<ymin>493</ymin>
+			<xmax>489</xmax>
+			<ymax>556</ymax>
+		</bndbox>
+	</object>
+</annotation>
