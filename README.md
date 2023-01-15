@@ -3,7 +3,7 @@
 ### Description of the file structure
 The JPEGImages folder holds the image files and the Annotations folder holds the label files.
 ### Defect type description
-1. Photovoltaic panels with broken areas.  ![image](https://github.com/AngelSXD/sxd_first_repository/blob/master/images/20160615165142.png)
+1. Photovoltaic panels with broken areas.
 2. Photovoltaic panels have obvious bright spot areas.
 3. Photovoltaic panels with black or gray border areas.
 4. Photovoltaic panels with scratched areas.
