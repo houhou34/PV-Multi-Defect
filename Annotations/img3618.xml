@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new</folder>
+	<filename>img3618.jpg</filename>
+	<path>C:\Users\86151\Desktop\sample\new\img3618.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>scratch</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>306</ymin>
+			<xmax>68</xmax>
+			<ymax>352</ymax>
+		</bndbox>
+	</object>
+</annotation>
